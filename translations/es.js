@@ -1,5 +1,9 @@
 var es = {
 
+"audio": "audio",
+
+"video": "video",
+
 "playerHeading": "Media player",
 
 "faster": "Rápido",
@@ -150,7 +154,7 @@ var es = {
 
 "prefIntroDescriptionNone": "El vídeo actual no tiene audiodescripción de ninguna manera.",
 
-"prefIntroDescription3": "Utilice el siguiente formulario para establecer sus preferencias en cuanto a la audiodescripción.",
+"prefIntroDescription3": "Utilice el siguiente formulario para establecer sus preferencias en cuanto a la audiodescripción en texto.",
 
 "prefIntroDescription4": "Una vez guardadas sus preferencias, la audiodescripción puede habilitarse o deshabilitarse mediante el botón Descripción.",
 
@@ -289,6 +293,8 @@ var es = {
 "windowResizeHeading": "Redimensionar la ventana con el intérprete",
 
 "windowResizeAlert": "La ventana ha sido redimensionada.",
+
+"windowClose": "Cerrar",
 
 "width": "Ancho",
 

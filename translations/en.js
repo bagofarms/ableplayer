@@ -1,5 +1,9 @@
 var en = {
 
+"audio": "audio",
+
+"video": "video",
+
 "playerHeading": "Media player",
 
 "faster": "Faster",
@@ -150,7 +154,7 @@ var en = {
 
 "prefIntroDescriptionNone": "The current video has no audio description in either format.",
 
-"prefIntroDescription3": "Use the following form to set your preferences related to audio description.",
+"prefIntroDescription3": "Use the following form to set your preferences related to text-based audio description.",
 
 "prefIntroDescription4": "After you save your settings, audio description can be toggled on/off using the Description button.",
 
@@ -289,6 +293,8 @@ var en = {
 "windowResizeHeading": "Resize Window",
 
 "windowResizeAlert": "The window has been resized.",
+
+"windowClose": "Close",
 
 "width": "Width",
 
